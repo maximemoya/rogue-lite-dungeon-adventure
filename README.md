@@ -64,7 +64,7 @@ Ce jeu rend hommage aux classiques du genre avec une approche moderne du gamepla
 | Inventaire | `I` |
 | Personnage | `C` |
 | Aide | `H` |
-| Quitter | `Echap` |
+| Options | `Echap` |
 
 ---
 
